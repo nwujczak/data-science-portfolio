@@ -22,7 +22,7 @@ This project involves analyzing a comprehensive dataset of all doctoral theses w
 ### 💼 2. Compte Professionnel de Formation (CPF) Investment Analysis
 This project examines the **investments made by various stakeholders** (individuals, companies, regions) in the CPF system. The analysis evaluates the impact of these investments on the **success rates of training programs**, identifying key factors that contribute to successful outcomes.
 
-[Explore the Project](#link-to-project)
+[Explore the Project](#[link-to-project](https://github.com/nwujczak/data-science-portfolio/tree/main/CPF_Analysis))
 
 ---
 
